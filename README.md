@@ -20,6 +20,7 @@ Esse teste é público. Todos que os interessados que fizerem pull request receb
 -   Ter um código clean;
 -   **Validar os inputs do seu formulário** antes de habilitar o botão de envio;
 -   Utilizar animações para o scroll da página.
+-   Animações no load/click (loading...)
 
 ### O Teste:
 O teste consiste na criação do layout de um sistema com 3 páginas, sendo elas:
